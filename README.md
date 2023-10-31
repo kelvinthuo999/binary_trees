@@ -1,0 +1,2 @@
+# NOTES
+- Binary trees
